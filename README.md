@@ -1,2 +1,2 @@
 # navi-cheats
-A repository of cheat sheets for navi
+repository of cheat sheets for [navi](https://github.com/denisidoro/navi)
