@@ -1,0 +1,10 @@
+% Tar Usage
+
+# extract a tar file
+tar xf <file>
+
+# extract a tar file verbosely
+tar xvf <file>
+
+# extract a gzip compressed tar file
+tar zxvf <file>
